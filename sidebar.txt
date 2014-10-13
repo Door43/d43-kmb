@@ -10,6 +10,10 @@
 
   * [[kmb:obs|Open Bible Stories (kmb)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kmb|d43-kmb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kmb/archive/master.zip|d43-kmb.zip]]
+
 **Recent Changes**
 {{changes>ns = kmb}}
 
