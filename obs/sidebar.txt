@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = kmb:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:kmb:obs:status}}
-
